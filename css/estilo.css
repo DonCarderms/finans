@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+	width: 150px;
+}
+@media (min-width: 767.98px) 
+{ 
+	.media-text{
+	display: none;
+}
+}
+.caixa{
+	padding: 60px 0;
+}
+#home{
+	background: #ffc107;
+	color: white;
+}
+
+footer a{
+	text-decoration: none;
+	margin: 5px 15px;
+}
+
